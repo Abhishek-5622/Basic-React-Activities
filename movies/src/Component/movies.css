@@ -1,0 +1,37 @@
+.heading{
+    padding-top: 1rem;
+    padding-left: 45%;
+    color: blue;
+    background-color: black;
+    height: 5rem;
+    margin-left: 0.5rem;
+}
+.head_container{
+    display: flex;
+    
+}
+
+.input_box{
+    width: 60rem;
+    border: 1px solid black;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+padding: 0.3rem;
+}
+.table_position{
+    width: 90%;
+}
+.category{
+    margin-left: 2rem;
+    margin-top: 2rem;
+    padding-left: 3rem;
+}
+img{
+    width: 4rem;
+    height: 4em;
+}
+
+.limit_box{
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+}
