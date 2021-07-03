@@ -1,8 +1,11 @@
+// import statement
 import firebase from 'firebase/app';
 import 'firebase/auth';
 import 'firebase/firestore';
+// firebase app
 firebase.initializeApp(
 {
+  // object that are copy from firebase
     apiKey: "AIzaSyDXUCOd3daZn9dJBArmO1B92b19u1I3IF4",
     authDomain: "class-demo-abed7.firebaseapp.com",
     projectId: "class-demo-abed7",
